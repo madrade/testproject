@@ -10,3 +10,5 @@ _Najlepsie su aj tak **cucoriedky**_
 _EDIT_
 
 *remote edit from Github*
+
+zmena - test SSH connection
